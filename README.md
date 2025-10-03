@@ -1,12 +1,15 @@
 # Real-Time-Safety-Alerts-App_ST10434583_PMG_Group
 
-# By the PMG Varsity College Group - 
-Luke Van Biljoen ST10434583
-Demira Yashwant Harry ST10443785
-Adam Reuben Benting ST10440722
-Matteo Salvatore Nusca St10440432
+### 👥 **Developed By: PMG Varsity College Group**
 
-# Real-Time Safety Alerts App - Project Management Documentation
+| **Student Name** | **Student Number** | **Role** |
+|------------------|-------------------|----------|
+| Luke Van Biljoen | ST10434583 | Project Lead |
+| Demira Yashwant Harry | ST10443785 | Team Member |
+| Adam Reuben Benting | ST10440722 | Team Member |
+| Matteo Salvatore Nusca | ST10440432 | Team Member |
+
+---
 
 ![Project Status](https://img.shields.io/badge/Status-Planning%20Phase-blue)
 ![Budget](https://img.shields.io/badge/Budget-R1%2C750%2C000-green)
